@@ -55,11 +55,13 @@ Implements 2 methods for extracting 3D horizon surfaces:
 2) least-squares horizons with both local slopes and multi-grid correlations.
 
 #### demo2
-type ./jy demo2 to run the three 2D horizon extraction methods 
+type ./jy demo2 
+to run the three 2D horizon extraction methods 
 in 3 different examples 
 
 #### demo3
-type ./jy demo3 to run the two 3D horizon extraction methods 
+type ./jy demo3 
+to run the two 3D horizon extraction methods 
 in 2 examples 
 
 ---
