@@ -28,17 +28,10 @@ source code, you must first download and build the Mines JTK using
 this repository is the same.
 
 Like the Mines JTK, this is a toolkit for computer programmers. It is not a
-complete system for seismic interpretation of geologic faults. Others
+complete system for seismic interpretation of geologic horizons. Others
 (including commercial software companies) have built such systems using
 earlier versions of one or more of the software tools provided in this
 repository.
-
-Although based on [research first published in 2012]
-(http://inside.mines.edu/~dhale/research.html)
-most of the software in this repository was written in the summer of 2014
-as Dave prepared for the upcoming lecture tour. This software will change
-during the course of that tour in response to questions and discussions
-inspired by the lecture.
 
 ### Summary
 
