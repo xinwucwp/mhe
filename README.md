@@ -57,6 +57,8 @@ type ./jy demo3
 to run the two 3D horizon extraction methods 
 in 2 examples 
 
+please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
+
 ---
 Copyright (c) 2018, Xinming Wu. All rights reserved.
 This software and accompanying materials are made available under the terms of

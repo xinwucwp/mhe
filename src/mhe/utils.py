@@ -1,14 +1,14 @@
 """
-Jython utilities for fake image processing.
-Author: Dave Hale, Colorado School of Mines
-Version: 2014.06.17
+Jython utilities for horizon extraction.
+Author: Xinming Wu, Unversity of Texas at Austin
+Version: 2017.06.17
 """
 from common import *
 
 #############################################################################
 # Internal constants
 
-_datdir = "../../data/"
+_datdir = "../../data/3d/"
 
 #############################################################################
 # Setup

@@ -18,7 +18,7 @@ gmin,gmax,gint,glab = -2.0,2.0,0.5,"Amplitude"
 background = Color.WHITE
 
 pngDir = None
-pngDir = "../../png/f3d/"
+pngDir = "../../png/3d/f3d/"
 gxfile = "gx"   #seismic volume
 p2file = "p2"   #inline slope volume
 p3file = "p3"   #crossline slope volume
@@ -63,7 +63,7 @@ def goHorizonOne():
   k2 = [413]
   k3 = [312]
   gx  = readImage(gxfile)
-  se = GlobalHorizon3()
+  se = HorizonExtractor3()
   if not plotOnly:
     p2  = readImage(p2file)
     p3  = readImage(p3file)
@@ -83,7 +83,7 @@ def goHorizonOne():
     print (time.time()-start)
     start = time.time()
     #horizon extraction with only slopes
-    surf2 = se.surfaceUpdateFromSlopesAndCorrelations(wp,p2,p3,k2,k3,surf2)
+    surf2 = se.surfaceUpdateFromSlopes(wp,p2,p3,k2,k3,surf2)
     print "Process time:"
     print (time.time()-start)
     writeImage(mh1file,surf1) 
