@@ -2,8 +2,7 @@
 
 This repository contains computer programs written and used by 
 [Xinming Wu](http://www.jsg.utexas.edu/wu/) 
-to implement the 2D and 3D horizon extraction methods,
-discussed in our Geophysics paper 
+for 2D and 3D horizon extraction that is discussed in our Geophysics paper 
 [Least-squares horizons with local slopes and multi-grid correlations]
 (http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf).
 
