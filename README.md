@@ -19,24 +19,17 @@ This is the code for our [CVPR 2017 paper on Unsupervised Learning using unlabel
 
 If you find this work helpful in your research, please cite:
 
- @inproceedings{pathakCVPR17learning,
-        Author = {Pathak, Deepak and Girshick, Ross and Doll\'{a}r,
-                  Piotr and Darrell, Trevor and Hariharan, Bharath},
-        Title = {Learning Features by Watching Objects Move},
-        Booktitle = {Computer Vision and Pattern Recognition ({CVPR})},
-        Year = {2017}
-    }
-@article{doi:wu2018least,
-  author = {Xinming Wu and Sergey Fomel},
-  title = {Least-squares horizons with local slopes and multigrid correlations},
-  journal = {GEOPHYSICS},
-  volume = {83},
-  number = {4},
-  pages = {IM29-IM40},
-  year = {2018},
-  doi = {10.1190/geo2017-0830.1},
-  URL = {https://doi.org/10.1190/geo2017-0830.1},
-}
+  @article{doi:wu2018least,
+    author = {Xinming Wu and Sergey Fomel},
+    title = {Least-squares horizons with local slopes and multigrid correlations},
+    journal = {GEOPHYSICS},
+    volume = {83},
+    number = {4},
+    pages = {IM29-IM40},
+    year = {2018},
+    doi = {10.1190/geo2017-0830.1},
+    URL = {https://doi.org/10.1190/geo2017-0830.1},
+  }
 
 This software depends on that in the [Mines Java Toolkit
 (JTK)](https://github.com/dhale/jtk/). If you want to do more than browse the
