@@ -1,0 +1,30 @@
+apply plugin: 'java'
+
+defaultTasks 'compileJava'
+defaultTasks 'jar'
+
+description = "Least-squares horizons"
+sourceCompatibility = 1.8
+
+sourceSets {
+  main {
+    output.classesDir = 'build/classes'
+    output.resourcesDir = output.classesDir
+    java {
+      srcDir 'src'
+      exclude '**/new/**','**/old/**'
+    }
+  }
+}
+
+jar {
+  baseName 'mhe'
+  manifest {
+    attributes 'Implementation-Title': project.description
+  }
+}
+
+dependencies {
+  compile fileTree('../jtk/core/build/libs') // for edu_mines_jtk.jar
+  compile fileTree('libs') // jars used in research, not in the Mines JTK
+}
