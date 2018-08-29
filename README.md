@@ -10,7 +10,7 @@ If you find this work helpful in your research, please cite:
 
     @article{doi:wu2018least,
         author = {Xinming Wu and Sergey Fomel},
-        title = {Least-squares horizons with local slopes and multigrid correlations},
+        title = {Least-squares horizons with local slopes and multi-grid correlations},
         journal = {GEOPHYSICS},
         volume = {83},
         number = {4},
