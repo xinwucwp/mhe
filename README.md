@@ -7,6 +7,16 @@ discussed in our Geophysics paper
 [Least-squares horizons with local slopes and multi-grid correlations]
 (http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf).
 
+This is the code for our [CVPR 2017 paper on Unsupervised Learning using unlabeled videos](http://cs.berkeley.edu/~pathak/unsupervised_video/). This repository contains models trained by the unsupervised motion grouping algorithm both in Caffe and Torch. If you find this work useful in your research, please cite:
+
+    @inproceedings{pathakCVPR17learning,
+        Author = {Pathak, Deepak and Girshick, Ross and Doll\'{a}r,
+                  Piotr and Darrell, Trevor and Hariharan, Bharath},
+        Title = {Learning Features by Watching Objects Move},
+        Booktitle = {Computer Vision and Pattern Recognition ({CVPR})},
+        Year = {2017}
+    }
+
 If you find this work helpful in your research, please cite:
 
  @inproceedings{pathakCVPR17learning,
