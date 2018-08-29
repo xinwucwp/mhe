@@ -28,8 +28,8 @@ _pngDir = "../../png/2d/"
 
 def main(args):
   #goTpdPick()
-  #goF3dPick()
-  goCurtPick()
+  goF3dPick()
+  #goCurtPick()
 
 # example one: Teapot dome dataset
 def goTpdPick():
