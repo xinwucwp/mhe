@@ -8,6 +8,7 @@ discussed in our Geophysics paper
 (http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf).
 
 If you find this work helpful in your research, please cite:
+
  @inproceedings{pathakCVPR17learning,
         Author = {Pathak, Deepak and Girshick, Ross and Doll\'{a}r,
                   Piotr and Darrell, Trevor and Hariharan, Bharath},
