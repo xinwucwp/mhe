@@ -88,6 +88,14 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
   <img src="png/2d/curt/curtm.png" width="695px" height="250px"/>
 </p>
 
+### 3D examples
+
+#### 1) Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
+<p align="left">
+  <img src="png/3d/f3d/surfs1.png" width="445px" height="200px"/>
+  <img src="png/3d/f3d/surfs2.png" width="445px" height="200px"/>
+</p>
+
 ---
 Copyright (c) 2018, Xinming Wu. All rights reserved.
 This software and accompanying materials are made available under the terms of
