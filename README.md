@@ -63,7 +63,7 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 2D and 3D examples published in the [paper]((http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf))
 ### 2D examples
 
-### Example of Teapot Dome()
+#### Example of Teapot Dome()
 ![png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)![png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)
 
 ---
