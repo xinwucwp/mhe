@@ -65,7 +65,9 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 
 #### Example of Teapot Dome()
 <p align="left">
-  <img src="png/2d/tpd/tpdp.png" width="350px" height="600px"/></p>
+  <img src="png/2d/tpd/tpdp.png" width="300px" height="600px"/></p>
+<p align="center">
+  <img src="png/2d/tpd/tpds.png" width="300px" height="600px"/></p>
 ![png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)![png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)
 
 ---
