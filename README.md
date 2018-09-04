@@ -60,7 +60,7 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 
 ## Examples
 
-2D and 3D examples published in the [paper](http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf)
+2D and 3D examples published in the [paper](http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf).
 ### 2D examples
 
 #### 1) Teapot Dome (provided by the Rocky Mountain Oilfield Testing Center)
