@@ -126,6 +126,7 @@ A horizon surface extracted using only one control point (green point in (b))
 <p align="left">
   <img src="png/3d/aust3d/aust.png"/>
 </p>
+
 ---
 Copyright (c) 2018, Xinming Wu. All rights reserved.
 This software and accompanying materials are made available under the terms of
