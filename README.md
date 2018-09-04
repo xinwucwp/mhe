@@ -64,7 +64,7 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 ### 2D examples
 
 ### Example of Teapot Dome()
-![png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)[png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)
+![png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)![png/2d/tpd/tpdp.png](png/2d/tpd/tpdp.png)
 
 ---
 Copyright (c) 2018, Xinming Wu. All rights reserved.
