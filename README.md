@@ -31,6 +31,7 @@ complete system for seismic interpretation of geologic horizons. Others
 earlier versions of one or more of the software tools provided in this
 repository.
 
+---
 ### Summary
 
 Here are brief descriptions of key components:
@@ -58,6 +59,7 @@ in 2 examples
 
 please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 
+---
 ## Examples
 
 2D and 3D examples published in the [paper](http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf).
