@@ -63,11 +63,18 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 2D and 3D examples published in the [paper]((http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf))
 ### 2D examples
 
-#### Example of Teapot Dome()
+#### Example of Teapot Dome (provided by the Rocky Mountain Oilfield Testing Center)
 <p align="left">
   <img src="png/2d/tpd/tpdp.png" width="280px" height="500px"/>
   <img src="png/2d/tpd/tpds.png" width="280px" height="500px"/>
   <img src="png/2d/tpd/tpdm.png" width="280px" height="500px"/>
+</p>
+
+#### Example of Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
+<p align="left">
+  <img src="png/2d/f3d/f3dp.png" width="280px" height="500px"/>
+  <img src="png/2d/f3d/f3ds.png" width="280px" height="500px"/>
+  <img src="png/2d/f3d/f3dm.png" width="280px" height="500px"/>
 </p>
 
 ---
