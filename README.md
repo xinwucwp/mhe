@@ -78,7 +78,7 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 </p>
 
 #### 3) Curt (provided by Australian government)
-<p align="left">
+<p align="top">
   <img src="png/2d/curt/curtp.png" width="295px" height="200px"/>
   <img src="png/2d/curt/curts.png" width="295px" height="200px"/>
   <img src="png/2d/curt/curtm.png" width="295px" height="200px"/>
