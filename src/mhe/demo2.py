@@ -205,7 +205,7 @@ def goCurtPick():
   title3 = "LS horizon with local slopes only"
   title4 = "Predictive horizon with local slopes only"
   plot(s1,s2,f,title=title1,w1=400,w2=1050,png="curt")
-  plot(s1,s2,f,title=title2,h=cv1s,k2=p2s,k1=p1s,w1=400,w2=1050,png="crutm")
+  plot(s1,s2,f,title=title2,h=cv1s,k2=p2s,k1=p1s,w1=400,w2=1050,png="curtm")
   plot(s1,s2,f,title=title3,h=cv2s,k2=p2s,k1=p1s,w1=400,w2=1050,png="curts")
   plot(s1,s2,f,title=title4,h=cv3s,k2=p2s,k1=p1s,w1=400,w2=1050,png="curtp")
 

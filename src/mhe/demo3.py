@@ -154,8 +154,8 @@ def goHorizonTwo():
   sf1 = [surf1,r1,g1,b1]
   sf2 = [surf2,r2,g2,b2]
   plot3(gx,cmap=rwb,clab="Amplitude",png="seis")
-  plot3(gx,hz=sf1,ks=[k1,k2,k3],cmap=rwb,png="surf2m")
-  plot3(gx,hz=sf2,ks=[k1,k2,k3],cmap=rwb,png="surf2s")
+  plot3(gx,hz=sf1,ks=[k1,k2,k3],cmap=rwb,png="surfm2")
+  plot3(gx,hz=sf2,ks=[k1,k2,k3],cmap=rwb,png="surfs2")
 
 def gain(x):
   g = mul(x,x) 
