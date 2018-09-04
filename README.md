@@ -7,7 +7,7 @@ for 2D and 3D horizon extraction that is discussed in our Geophysics paper
 
 If you find this work helpful in your research, please cite:
 
-    @article{doi:wu2018least,
+    @article{wu2018least,
         author = {Xinming Wu and Sergey Fomel},
         title = {Least-squares horizons with local slopes and multi-grid correlations},
         journal = {GEOPHYSICS},
