@@ -104,6 +104,10 @@ bottom row: least-squares horizons with both local slopes and multi-grid correla
 </p>
 
 #### 2) provided by RCRL at BEG (purchased from Australian Government-Geoscience Australia)
+<p align="left">
+  <img src="png/3d/aust3d/seis.png" width="445px" height="350px"/>
+  <img src="png/3d/aust3d/surf.png" width="445px" height="350px"/>
+</p>
 ---
 Copyright (c) 2018, Xinming Wu. All rights reserved.
 This software and accompanying materials are made available under the terms of
