@@ -103,6 +103,7 @@ bottom row: least-squares horizons with both local slopes and multi-grid correla
   <img src="png/3d/f3d/surfm2.png" width="445px" height="350px"/>
 </p>
 
+#### 2) provided by RCRL at BEG (purchased from Australian Government-Geoscience Australia)
 ---
 Copyright (c) 2018, Xinming Wu. All rights reserved.
 This software and accompanying materials are made available under the terms of
