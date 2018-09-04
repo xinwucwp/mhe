@@ -65,9 +65,9 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 
 #### Example of Teapot Dome (provided by the Rocky Mountain Oilfield Testing Center)
 <p align="left">
-  <img src="png/2d/tpd/tpdp.png" width="280px" height="500px"/>
-  <img src="png/2d/tpd/tpds.png" width="280px" height="500px"/>
-  <img src="png/2d/tpd/tpdm.png" width="280px" height="500px"/>
+  <img src="png/2d/tpd/tpdp.png" width="295px" height="500px"/>
+  <img src="png/2d/tpd/tpds.png" width="295px" height="500px"/>
+  <img src="png/2d/tpd/tpdm.png" width="295px" height="500px"/>
 </p>
 
 #### Example of Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
