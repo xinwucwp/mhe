@@ -72,9 +72,9 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 
 #### Example of Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
 <p align="left">
-  <img src="png/2d/f3d/f3dp.png" width="295px" height="250px"/>
-  <img src="png/2d/f3d/f3ds.png" width="295px" height="250px"/>
-  <img src="png/2d/f3d/f3dm.png" width="295px" height="250px"/>
+  <img src="png/2d/f3d/f3dp.png" width="295px" height="200px"/>
+  <img src="png/2d/f3d/f3ds.png" width="295px" height="200px"/>
+  <img src="png/2d/f3d/f3dm.png" width="295px" height="200px"/>
 </p>
 
 ---
