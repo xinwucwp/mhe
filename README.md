@@ -92,12 +92,12 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 
 #### 1) Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
 <p align="left">
-  <img src="png/3d/f3d/surfs1.png" width="445px" height="400px"/>
-  <img src="png/3d/f3d/surfs2.png" width="445px" height="400px"/>
+  <img src="png/3d/f3d/surfs1.png" width="445px" height="350px"/>
+  <img src="png/3d/f3d/surfs2.png" width="445px" height="350px"/>
 </p>
 <p align="left">
-  <img src="png/3d/f3d/surfm1.png" width="445px" height="400px"/>
-  <img src="png/3d/f3d/surfm2.png" width="445px" height="400px"/>
+  <img src="png/3d/f3d/surfm1.png" width="445px" height="350px"/>
+  <img src="png/3d/f3d/surfm2.png" width="445px" height="350px"/>
 </p>
 
 ---
