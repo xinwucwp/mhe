@@ -91,6 +91,8 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 ### 3D examples
 
 #### 1) Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
+top row: least-squares horizons with only local slopes
+bottom row: least-squares horizons with both local slopes and multi-grid correlations
 <p align="left">
   <img src="png/3d/f3d/surfs1.png" width="445px" height="350px"/>
   <img src="png/3d/f3d/surfs2.png" width="445px" height="350px"/>
