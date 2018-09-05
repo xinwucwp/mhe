@@ -124,7 +124,7 @@ Bottom row: least-squares horizons with both local slopes and multi-grid correla
 </p>
 
 #### 2) provided by RCRL at BEG (purchased from Australian Government-Geoscience Australia)
-A horizon surface extracted using only one control point (green point in (b))
+A horizon surface extracted using the proposed method with one control point (green point in (b))
 <p align="left">
   <img src="png/3d/aust3d/aust.png"/>
 </p>
