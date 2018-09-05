@@ -70,7 +70,7 @@ Left: predictive horizons with only local slopes
 
 Center: least-squares horizons with only local slopes
 
-Right: least-squares horizons with both local slopes and multi-grid correlations
+Right: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 
 <p align="left">
   <img src="png/2d/tpd/tpdp.png" width="295px" height="500px"/>
@@ -83,7 +83,7 @@ Left: predictive horizons with only local slopes
 
 Center: least-squares horizons with only local slopes
 
-Right: least-squares horizons with both local slopes and multi-grid correlations
+Right: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 
 <p align="left">
   <img src="png/2d/f3d/f3dp.png" width="295px" height="200px"/>
@@ -96,7 +96,7 @@ Top row: predictive horizons with only local slopes
 
 Middle row: least-squares horizons with only local slopes
 
-Bottom row: least-squares horizons with both local slopes and multi-grid correlations
+Bottom row: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 
 <p align="left">
   <img src="png/2d/curt/curtp.png" width="695px" height="250px"/>
@@ -113,7 +113,7 @@ Bottom row: least-squares horizons with both local slopes and multi-grid correla
 #### 1) Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
 Top row: least-squares horizons with only local slopes
 
-Bottom row: least-squares horizons with both local slopes and multi-grid correlations
+Bottom row: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 <p align="left">
   <img src="png/3d/f3d/surfs1.png" width="445px" height="350px"/>
   <img src="png/3d/f3d/surfs2.png" width="445px" height="350px"/>
