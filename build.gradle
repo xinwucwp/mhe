@@ -25,6 +25,5 @@ jar {
 }
 
 dependencies {
-  compile fileTree('../jtk/core/build/libs') // for edu_mines_jtk.jar
   compile fileTree('libs') // jars used in research, not in the Mines JTK
 }

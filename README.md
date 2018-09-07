@@ -19,17 +19,18 @@ If you find this work helpful in your research, please cite:
         URL = {https://doi.org/10.1190/geo2017-0830.1},
     }
 
-This software depends on that in the [Mines Java Toolkit
-(JTK)](https://github.com/dhale/jtk/). If you want to do more than browse the
-source code, you must first download and build the Mines JTK using
-[Gradle](http://www.gradle.org). The build process for software in
-this repository is the same.
+### Requirements
 
-Like the Mines JTK, this is a toolkit for computer programmers. It is not a
-complete system for seismic interpretation of geologic horizons. Others
-(including commercial software companies) have built such systems using
-earlier versions of one or more of the software tools provided in this
-repository.
+#### 1) Installing the Java Development Kit (JDK)
+Before building the package, you must first install Java SE JDK 7 (or 8) On Windows, we like to put tools such as the JDK in a folder named C:\pro\. This folder name is shorter than "C:\Program Files" and contains no spaces, which makes it easy to specify in scripts and environment variables.
+
+#### 2) Building the package
+Please install [Gradle](https://gradle.org/install/) to automaticcally build the package.
+
+#### 3) [Mines Java Toolkit](https://github.com/dhale)
+This package dependes on the Mines Java Toolkit by Dr. Dave Hale. 
+The corresponding package edu-mines-jtk-1.0.0.jar has been already 
+included in the ./libs
 
 ---
 ### Summary

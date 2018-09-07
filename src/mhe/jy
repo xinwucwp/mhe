@@ -9,7 +9,7 @@ export JAVA_VERSION=1.8.0
 # Where will Java look for classes? 
 # Add other jars to this list as necessary.
 export CLASSPATH=\
-$MINES_JTK_HOME/core/build/libs/edu-mines-jtk-1.0.0.jar:\
+$MHE_HOME/libs/edu-mines-jtk-1.0.0.jar:\
 $MHE_HOME/libs/gluegen-rt.jar:\
 $MHE_HOME/libs/jogl-all.jar:\
 $MHE_HOME/libs/jythonlib.jar:\
