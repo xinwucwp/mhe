@@ -28,10 +28,10 @@ Before building the package, you must first install Java SE JDK 7 (or 8) On Wind
 Please install [Gradle](https://gradle.org/install/) to automaticcally build the package.
 
 #### 3) [Mines Java Toolkit](https://github.com/dhale)
-This package dependes on the Mines Java Toolkit 
-by [Dr. Dave Hale](http://inside.mines.edu/~dhale/).  
-The corresponding package edu-mines-jtk-1.0.0.jar has been already 
-included in the ./libs
+This package dependes on the JTK (Mines Java Toolkit) 
+by [Dr. Dave Hale](http://inside.mines.edu/~dhale/). However, this package 
+can be built without the needing of installing JTK becuase the 
+edu-mines-jtk-1.0.0.jar has been already included in the ./libs
 
 ---
 ### Summary
