@@ -101,13 +101,13 @@ Middle row: least-squares horizons with only local slopes
 Bottom row: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 
 <p align="left">
-  <img src="png/2d/curt/curtp.png" width="885px" height="300px"/>
+  <img src="png/2d/curt/curtp.png" width="885px" height="350px"/>
 </p>
 <p align="left">
-  <img src="png/2d/curt/curts.png" width="885px" height="300px"/>
+  <img src="png/2d/curt/curts.png" width="885px" height="350px"/>
 </p>
 <p align="left">
-  <img src="png/2d/curt/curtm.png" width="885px" height="300px"/>
+  <img src="png/2d/curt/curtm.png" width="885px" height="350px"/>
 </p>
 
 ### 3D examples
