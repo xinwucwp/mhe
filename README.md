@@ -22,7 +22,9 @@ If you find this work helpful in your research, please cite:
 ### Requirements
 
 #### 1) Installing the Java Development Kit (JDK)
-Before building the package, you must first install Java SE JDK 7 (or 8) On Windows, we like to put tools such as the JDK in a folder named C:\pro\. This folder name is shorter than "C:\Program Files" and contains no spaces, which makes it easy to specify in scripts and environment variables.
+Before building the package, you must first install Java SE JDK 7 (or 8). This package has been tested on OSX and Linux. 
+
+On Windows, we like to put tools such as the JDK in a folder named C:\pro\. This folder name is shorter than "C:\Program Files" and contains no spaces, which makes it easy to specify in scripts and environment variables.
 
 #### 2) Building the package
 Please install [Gradle](https://gradle.org/install/) to automaticcally build the package.
