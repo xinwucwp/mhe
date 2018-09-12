@@ -554,11 +554,11 @@ public class HorizonExtractor3 {
       float[][] x = v2x.getArray();
       float[][] y = v2y.getArray();
       copy(x,y);
-      constrain(_k2,_k3,y);
+      constrainM(_k2,_k3,y);
       smooth2(_sigma2,_wp,y);
       smooth1(2.f*_sigma1,_wp,y);
       smooth2(_sigma2,_wp,y);
-      constrain(_k2,_k3,y);
+      constrainM(_k2,_k3,y);
     }
     private float _sigma1,_sigma2;
     private float[][] _wp;
@@ -590,7 +590,7 @@ public class HorizonExtractor3 {
     }
   }
 
-
+  //Original constrain operation
   private static void constrain(float[] k2, float[] k3, float[][] x) {
     if (k2!=null && k3!=null) {
       int np = k2.length;
@@ -601,6 +601,34 @@ public class HorizonExtractor3 {
       }
     }
   }
+
+  //Modified constrain operation suggested by Dr. Yong Ma at Conocophillips
+  //This modification is helpful when the updated horizon is vertically 
+  //shifted far away from the control points
+  private static void constrainM(float[] k2, float[] k3, float[][] x) {
+    if (k2!=null && k3!=null) {
+      int np = k2.length;
+      float zshift = 0f;
+      for (int ip=0; ip<np; ++ip) {
+        int i2 = (int)k2[ip];
+        int i3 = (int)k3[ip];
+        zshift -= x[i3][i2];
+      }
+      zshift /= np;
+      int n3 = x.length;
+      int n2 = x[0].length;
+      for (int i3=0; i3<n3; ++i3) {
+      for (int i2=0; i2<n2; ++i2) {
+        x[i3][i2] += zshift;
+      }}
+      for (int ip=0; ip<np; ++ip) {
+        int i2 = (int)k2[ip]; 
+        int i3 = (int)k3[ip]; 
+        x[i3][i2] = 0.f;
+      }
+    }
+  }
+
 
   // Smoothing for dimension 1
   private static void smooth1(float sigma, float[][] s, float[][] x){

@@ -409,10 +409,10 @@ public class HorizonExtractor2 {
       float[] x = v1x.getArray();
       float[] y = v1y.getArray();
       copy(x,y);
-      constrain(_k2,y);
+      constrainM(_k2,y);
       //smooth1(_sig1,_wp,y);
       smooth1(_sig1,y);
-      constrain(_k2,y);
+      constrainM(_k2,y);
     }
     private float _sig1;
     private float[] _wp;
@@ -429,6 +429,7 @@ public class HorizonExtractor2 {
     }
   }
 
+  //Original constrain operation
   private static void constrain(float[] k2, float[] x) {
     if (k2!=null) {
       int np = k2.length;
@@ -438,6 +439,29 @@ public class HorizonExtractor2 {
       }
     }
   }
+
+  //Modified constrain operation suggested by Dr. Yong Ma at Conocophillips
+  //This modification is helpful when the updated horizon is vertically 
+  //shifted far away from the control points
+  private static void constrainM(float[] k2, float[] x) {
+    if (k2!=null) {
+      int np = k2.length;
+      float zshift = 0f;
+      for (int ip=0; ip<np; ++ip) {
+        int i2 = (int)k2[ip]; 
+        zshift -= x[i2];
+      }
+      zshift /= np;
+      int n2 = x.length;
+      for (int i2=0; i2<n2; ++i2) 
+        x[i2] += zshift;
+      for (int ip=0; ip<np; ++ip) {
+        int i2 = (int)k2[ip]; 
+        x[i2] = 0.0f;
+      }
+    }
+  }
+
 
   private static void smooth1(float sigma, float[] x){
     RecursiveExponentialFilter ref = new RecursiveExponentialFilter(sigma);
