@@ -554,11 +554,11 @@ public class HorizonExtractor3 {
       float[][] x = v2x.getArray();
       float[][] y = v2y.getArray();
       copy(x,y);
-      constrainM(_k2,_k3,y);
+      constrain(_k2,_k3,y);
       smooth2(_sigma2,_wp,y);
       smooth1(2.f*_sigma1,_wp,y);
       smooth2(_sigma2,_wp,y);
-      constrainM(_k2,_k3,y);
+      constrain(_k2,_k3,y);
     }
     private float _sigma1,_sigma2;
     private float[][] _wp;
