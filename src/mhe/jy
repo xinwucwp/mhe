@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Where is the Mines JTK? (Where is your build.xml?)
+# Where is the mhe? (Where is your build.xml?)
 export MHE_HOME=../../../mhe
 # If Mac OS X, which version of Java should we use?
 export JAVA_VERSION=1.8.0
