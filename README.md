@@ -69,7 +69,7 @@ please email me xinming.wu@beg.utexas.edu to ask for the 3D datasets
 2D and 3D examples published in the [paper](http://www.jsg.utexas.edu/wu/files/wu2018LeastSquaresHorizons.pdf).
 ### 2D examples
 
-#### 1) Teapot Dome (provided by the Rocky Mountain Oilfield Testing Center)
+#### 1) Teapot Dome (seismic data provided by the Rocky Mountain Oilfield Testing Center)
 Left: predictive horizons with only local slopes
 
 Center: least-squares horizons with only local slopes
@@ -82,7 +82,7 @@ Right: least-squares horizons with both local slopes and multi-grid correlations
   <img src="png/2d/tpd/tpdm.png" width="295px" height="500px"/>
 </p>
 
-#### 2) Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
+#### 2) Netherlands off-shore F3 (seismic data provided by the Dutch Government through TNO and dGB Earth Sciences)
 Left: predictive horizons with only local slopes
 
 Center: least-squares horizons with only local slopes
@@ -95,7 +95,7 @@ Right: least-squares horizons with both local slopes and multi-grid correlations
   <img src="png/2d/f3d/f3dm.png" width="295px" height="200px"/>
 </p>
 
-#### 3) Curt (provided by Australian government)
+#### 3) Curt (seismic data provided by Australian government)
 Top row: predictive horizons with only local slopes
 
 Middle row: least-squares horizons with only local slopes
@@ -114,7 +114,7 @@ Bottom row: least-squares horizons with both local slopes and multi-grid correla
 
 ### 3D examples
 
-#### 1) Netherlands off-shore F3 (provided by the Dutch Government through TNO and dGB Earth Sciences)
+#### 1) Netherlands off-shore F3 (seismic data provided by the Dutch Government through TNO and dGB Earth Sciences)
 Top row: least-squares horizons with only local slopes
 
 Bottom row: least-squares horizons with both local slopes and multi-grid correlations (proposed)
@@ -127,7 +127,7 @@ Bottom row: least-squares horizons with both local slopes and multi-grid correla
   <img src="png/3d/f3d/surfm2.png" width="445px" height="350px"/>
 </p>
 
-#### 2) provided by RCRL at BEG (purchased from Australian Government-Geoscience Australia)
+#### 2) Seismic data provided by RCRL at BEG (purchased from Australian Government-Geoscience Australia)
 A horizon surface extracted using the proposed method with one control point (green point in (b))
 <p align="left">
   <img src="png/3d/aust3d/aust.png"/>
