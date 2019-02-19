@@ -12,7 +12,7 @@ If you find this work helpful in your research, please cite:
         title = {Least-squares horizons with local slopes and multi-grid correlations},
         journal = {GEOPHYSICS},
         volume = {83},
-        number = {4},
+        issue = {4},
         pages = {IM29-IM40},
         year = {2018},
         doi = {10.1190/geo2017-0830.1},
