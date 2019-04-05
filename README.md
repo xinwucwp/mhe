@@ -119,12 +119,12 @@ Top row: least-squares horizons with only local slopes
 
 Bottom row: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 <p align="left">
-  <img src="png/3d/f3d/surfs1.png" width="445px" height="350px"/>
-  <img src="png/3d/f3d/surfs2.png" width="445px" height="350px"/>
+  <img src="png/3d/f3d/surfs1.png" width="440px" height="350px"/>
+  <img src="png/3d/f3d/surfs2.png" width="440px" height="350px"/>
 </p>
 <p align="left">
-  <img src="png/3d/f3d/surfm1.png" width="445px" height="350px"/>
-  <img src="png/3d/f3d/surfm2.png" width="445px" height="350px"/>
+  <img src="png/3d/f3d/surfm1.png" width="440px" height="350px"/>
+  <img src="png/3d/f3d/surfm2.png" width="440px" height="350px"/>
 </p>
 
 #### 2) Seismic data provided by RCRL at BEG (purchased from Australian Government-Geoscience Australia)
