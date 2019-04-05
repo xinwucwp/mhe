@@ -77,9 +77,9 @@ Center: least-squares horizons with only local slopes
 Right: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 
 <p align="left">
-  <img src="png/2d/tpd/tpdp.png" width="295px" height="500px"/>
-  <img src="png/2d/tpd/tpds.png" width="295px" height="500px"/>
-  <img src="png/2d/tpd/tpdm.png" width="295px" height="500px"/>
+  <img src="png/2d/tpd/tpdp.png" width="285px" height="500px"/>
+  <img src="png/2d/tpd/tpds.png" width="285px" height="500px"/>
+  <img src="png/2d/tpd/tpdm.png" width="285px" height="500px"/>
 </p>
 
 #### 2) Netherlands off-shore F3 (seismic data provided by the Dutch Government through TNO and dGB Earth Sciences)
@@ -90,9 +90,9 @@ Center: least-squares horizons with only local slopes
 Right: least-squares horizons with both local slopes and multi-grid correlations (proposed)
 
 <p align="left">
-  <img src="png/2d/f3d/f3dp.png" width="295px" height="200px"/>
-  <img src="png/2d/f3d/f3ds.png" width="295px" height="200px"/>
-  <img src="png/2d/f3d/f3dm.png" width="295px" height="200px"/>
+  <img src="png/2d/f3d/f3dp.png" width="285px" height="200px"/>
+  <img src="png/2d/f3d/f3ds.png" width="285px" height="200px"/>
+  <img src="png/2d/f3d/f3dm.png" width="285px" height="200px"/>
 </p>
 
 #### 3) Curt (seismic data provided by Australian government)
